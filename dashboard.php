@@ -9,7 +9,7 @@
                     <span class="badge badge-pill badge-success mb-3">Rp. <?php echo $knd->harga ?></span>
                     <br>
                     <a href="#" class="btn btn-sm btn-success">Pesan Sekarang</a>
-                    <a href="#" class="btn btn-sm btn-primary">Detail</a>
+                    <a href="#" class="btn btn-sm btn-primary">Detil</a>
                 </div>
             </div>
         <?php endforeach; ?>
